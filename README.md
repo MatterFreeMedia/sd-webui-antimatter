@@ -1,21 +1,17 @@
 <h1 align="center">Stable Diffusion WebUI Forge - Neo</h1>
 
 <p align="center"><sup>
-[ <b>Neo</b> | <a href="https://github.com/Haoming02/sd-webui-forge-classic/tree/classic#stable-diffusion-webui-forge---classic">Classic</a> ]
+[ <b>Neo</b> | <a href="https://github.com/MatterFreeMedia/sd-webui-antimatter/edit/neo/README.md">Classic</a> ]
 </sup></p>
 
 <p align="center"><img src="html\ui.webp" width=512 alt="UI"></p>
 
 <blockquote><i>
-<b>Stable Diffusion WebUI Forge</b> is a platform on top of the original <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui">Stable Diffusion WebUI</a> by <ins>AUTOMATIC1111</ins>, to make development easier, optimize resource management, speed up inference, and study experimental features.<br>
-The name "Forge" is inspired by "Minecraft Forge". This project aims to become the Forge of Stable Diffusion WebUI.<br>
-<p align="right">- <b>lllyasviel</b><br>
-<sup>(paraphrased)</sup></p>
-</i></blockquote>
+<b>Antimatter WebUI for Stable Diffusion</b> is a based on ForgeNeo WebUI.
 
 <br>
 
-"**Neo**" mainly serves as an continuation for the "`latest`" version of Forge, which was built on [Gradio](https://github.com/gradio-app/gradio) `4.40.0` before lllyasviel became too busy... Additionally, this fork is focused on optimization and usability, with the main goal of being able to run the latest popular models via an easy-to-use GUI.
+Run powerful diffusion models on your own hardware easily with this local-first UI! Requires Nvidia GPU with 8GB VRAM. 16GB is highly recommended for best performance.
 
 > [!Tip]
 > [How to Install](#installation)
