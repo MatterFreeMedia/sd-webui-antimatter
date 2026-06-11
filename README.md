@@ -1,4 +1,4 @@
-<h1 align="center">Stable Diffusion WebUI Forge - Neo</h1>
+<h1 align="center">Antimatter WebUI for Stable Diffusion</h1>
 
 <p align="center"><sup>
 [ <b>Neo</b> | <a href="https://github.com/MatterFreeMedia/sd-webui-antimatter/edit/neo/README.md">Classic</a> ]
